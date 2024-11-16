@@ -21,6 +21,7 @@ E o Avatar foi criado no D-ID baixando o áudio do ElevenLabs.
 ## 🚀 Resultados
 Neste vídeo você terá o entendimento de como o processo de transição de carreira pode ser desafiador
 e em alguns casos extremamente necessário.
+https://github.com/NailaMonteiro/lab-natty-or-not/blob/main/Mudan%C3%A7a%20de%20carreira.mp4
 
 
 ## 💭 Reflexão (Opcional)
