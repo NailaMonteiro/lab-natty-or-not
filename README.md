@@ -1,8 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+# Mudança de Carreira como oportunidade de crescimento
 
 ### Template
 
@@ -25,6 +21,7 @@ E o Avatar foi criado no D-ID baixando o áudio do ElevenLabs.
 ## 🚀 Resultados
 Neste vídeo você terá o entendimento de como o processo de transição de carreira pode ser desafiador
 e em alguns casos extremamente necessário.
+
 
 ## 💭 Reflexão (Opcional)
 Este projeto foi o meu primeiro contato com a IA Generativa e suas possibilidades. Obviamente, tenho muitas coisas para aprender
