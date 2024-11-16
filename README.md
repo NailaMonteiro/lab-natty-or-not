@@ -8,34 +8,31 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
-
+Alcançando Novos Horizontes: Mudança de Carreira
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este vídeo de 1 minuto apresenta um breve resumo sobre a transição de carreira, seus processos e motivações.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa Copilot para roteirização
+- IA Generativa ElevenLabs para gravação do áudio
+- IA Generativa D-ID para geração do avatar virtual
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o Copilot para escrever o resumo de até um minuto sobre Transição de Carreira.
+O ElevenLabs foi usado para gravar o áudio a partir do texto gerado pelo Copilot com a ferramenta Text to Speech.
+E o Avatar foi criado no D-ID baixando o áudio do ElevenLabs.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Neste vídeo você terá o entendimento de como o processo de transição de carreira pode ser desafiador
+e em alguns casos extremamente necessário.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Este projeto foi o meu primeiro contato com a IA Generativa e suas possibilidades. Obviamente, tenho muitas coisas para aprender
+mas fiquei muito  motivada para buscar mais conhecimento nesta área de TI que não para de crescer e inovar. 
 ```
 
 ### Exemplos e Insigths
